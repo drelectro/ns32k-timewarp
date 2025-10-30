@@ -1,0 +1,28 @@
+# Temporary files and backups
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.lck
+*.zip
+*~
+_autosave-*
+*.tmp
+ns32k-timewarp-backups/
+
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+.dsn
+
+# Exported BOM files ETC
+*.xml
+*.xlsx
+
+# Local project settings (KiCad v6 and later)
+*.kicad_prl
+
+# Cache files
+*-cache*
+
