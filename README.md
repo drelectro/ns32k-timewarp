@@ -133,16 +133,6 @@ Special thanks to:
 
 ---
 
-## 📂 Repository Layout
-
-```
-schematic/   →  KiCad design files and schematics
-board/       →  PCB layout and design notes
-eprom/       →  Binary dumps + disassemblies (TBC)
-pal/         →  Reverse-engineered PAL equations (TBC)
-doc/         →  Images, scans, and reference material
-```
-
 ---
 
 ## 🏁 Current Status
@@ -171,3 +161,4 @@ doc/         →  Images, scans, and reference material
 │ https://github.com/drelectro/ns32k-timewarp   │
 └───────────────────────────────────────────────┘
 ```
+
